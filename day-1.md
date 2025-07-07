@@ -27,4 +27,15 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
-   
+**This is bold text**
+
+_This text is italicized  _
+
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
+
+***All this text is important***
+
+
+
